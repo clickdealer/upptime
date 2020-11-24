@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Click DMS",
+    "url": "https://myclickdealer.co.uk",
+    "slug": "click-dms",
     "status": "up",
     "uptime": "100.00%",
-    "time": 39
+    "time": 2084
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Click Engage",
+    "url": "https://example.click-engage.co.uk",
+    "slug": "click-engage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 63
+    "time": 743
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Click Media +",
+    "url": "https://api.myclickdealer.co.uk",
+    "slug": "click-media",
     "status": "up",
     "uptime": "100.00%",
-    "time": 221
+    "time": 689
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
+    "name": "Click Web",
+    "url": "https://www.clickmotors.co.uk",
+    "slug": "click-web",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 0
+    "time": 1148
   }
 ]
