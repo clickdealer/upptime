@@ -5,7 +5,7 @@
     "slug": "click-dms",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1772
+    "time": 1620
   },
   {
     "name": "Click Engage",
@@ -13,7 +13,7 @@
     "slug": "click-engage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 587
+    "time": 537
   },
   {
     "name": "Click Media +",
@@ -21,7 +21,7 @@
     "slug": "click-media",
     "status": "up",
     "uptime": "100.00%",
-    "time": 568
+    "time": 513
   },
   {
     "name": "Click Web",
@@ -29,6 +29,6 @@
     "slug": "click-web",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1071
+    "time": 982
   }
 ]
