@@ -4,8 +4,8 @@
     "url": "https://myclickdealer.co.uk",
     "slug": "click-dms",
     "status": "up",
-    "uptime": "99.62%",
-    "time": 1570
+    "uptime": "99.74%",
+    "time": 1549
   },
   {
     "name": "Click Engage",
@@ -13,7 +13,7 @@
     "slug": "click-engage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 553
+    "time": 535
   },
   {
     "name": "Click Media +",
@@ -21,7 +21,7 @@
     "slug": "click-media",
     "status": "up",
     "uptime": "100.00%",
-    "time": 575
+    "time": 561
   },
   {
     "name": "Click Web",
@@ -29,6 +29,6 @@
     "slug": "click-web",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1064
+    "time": 1065
   }
 ]
