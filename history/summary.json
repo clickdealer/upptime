@@ -3,9 +3,9 @@
     "name": "Click DMS",
     "url": "https://myclickdealer.co.uk",
     "slug": "click-dms",
-    "status": "up",
-    "uptime": "99.80%",
-    "time": 1555
+    "status": "down",
+    "uptime": "99.81%",
+    "time": 1460
   },
   {
     "name": "Click Engage",
@@ -27,8 +27,8 @@
     "name": "Click Web",
     "url": "https://www.clickmotors.co.uk",
     "slug": "click-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1059
+    "time": 994
   }
 ]
