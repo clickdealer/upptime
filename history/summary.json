@@ -4,8 +4,16 @@
     "url": "https://myclickdealer.co.uk",
     "slug": "click-dms",
     "status": "up",
-    "uptime": "99.81%",
-    "time": 1503
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1492,
+    "timeDay": 1327,
+    "timeWeek": 1400,
+    "timeMonth": 1492,
+    "timeYear": 1492
   },
   {
     "name": "Click Engage",
@@ -13,7 +21,15 @@
     "slug": "click-engage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 510
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 508,
+    "timeDay": 477,
+    "timeWeek": 477,
+    "timeMonth": 508,
+    "timeYear": 508
   },
   {
     "name": "Click Media +",
@@ -21,7 +37,15 @@
     "slug": "click-media",
     "status": "up",
     "uptime": "100.00%",
-    "time": 538
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 530,
+    "timeDay": 437,
+    "timeWeek": 488,
+    "timeMonth": 530,
+    "timeYear": 530
   },
   {
     "name": "Click Web",
@@ -29,6 +53,14 @@
     "slug": "click-web",
     "status": "up",
     "uptime": "99.93%",
-    "time": 1062
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1064,
+    "timeDay": 1088,
+    "timeWeek": 1058,
+    "timeMonth": 1064,
+    "timeYear": 1064
   }
 ]
