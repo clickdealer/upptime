@@ -19,9 +19,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://www.clickdealer.co.uk/wp-content/uploads/2020/02/ClickDealer_Logo_Colour.png
-  name: ""
+  name: Status
   introTitle: "Click Dealer Status Page"
-  introMessage: ""
+  introMessage:
   navbar: []
 #    - title: Status
 #      href: /
