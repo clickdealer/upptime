@@ -2,65 +2,86 @@
   {
     "name": "Click DMS",
     "url": "https://myclickdealer.co.uk",
+    "icon": "https://favicons.githubusercontent.com/myclickdealer.co.uk",
     "slug": "click-dms",
     "status": "up",
-    "uptime": "97.02%",
+    "uptime": "97.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.35%",
-    "uptimeMonth": "97.02%",
-    "uptimeYear": "97.02%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
     "time": 1387,
-    "timeDay": 1193,
-    "timeWeek": 1266,
+    "timeDay": 1218,
+    "timeWeek": 1252,
     "timeMonth": 1387,
-    "timeYear": 1387
+    "timeYear": 1387,
+    "dailyMinutesDown": {
+      "2020-12-04": 461,
+      "2020-11-29": 8,
+      "2020-11-26": 12
+    }
   },
   {
     "name": "Click Engage",
     "url": "https://example.click-engage.co.uk",
+    "icon": "https://favicons.githubusercontent.com/example.click-engage.co.uk",
     "slug": "click-engage",
     "status": "up",
-    "uptime": "95.51%",
+    "uptime": "95.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.81%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "95.51%",
+    "uptimeMonth": "95.73%",
+    "uptimeYear": "95.73%",
     "time": 628,
-    "timeDay": 530,
+    "timeDay": 490,
     "timeWeek": 683,
     "timeMonth": 628,
-    "timeYear": 628
+    "timeYear": 628,
+    "dailyMinutesDown": {
+      "2020-12-04": 508,
+      "2020-12-03": 217
+    }
   },
   {
     "name": "Click Media +",
     "url": "https://api.myclickdealer.co.uk",
+    "icon": "https://favicons.githubusercontent.com/api.myclickdealer.co.uk",
     "slug": "click-media",
     "status": "up",
-    "uptime": "96.64%",
+    "uptime": "96.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.63%",
-    "uptimeMonth": "96.64%",
-    "uptimeYear": "96.64%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "96.81%",
     "time": 886,
-    "timeDay": 541,
+    "timeDay": 472,
     "timeWeek": 1107,
     "timeMonth": 886,
-    "timeYear": 886
+    "timeYear": 886,
+    "dailyMinutesDown": {
+      "2020-12-04": 542
+    }
   },
   {
     "name": "Click Web",
     "url": "https://www.clickmotors.co.uk",
+    "icon": "https://favicons.githubusercontent.com/www.clickmotors.co.uk",
     "slug": "click-web",
     "status": "up",
-    "uptime": "96.07%",
+    "uptime": "96.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.71%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "96.07%",
+    "uptimeWeek": "93.78%",
+    "uptimeMonth": "96.26%",
+    "uptimeYear": "96.26%",
     "time": 2193,
-    "timeDay": 1206,
-    "timeWeek": 2727,
+    "timeDay": 1095,
+    "timeWeek": 2966,
     "timeMonth": 2193,
-    "timeYear": 2193
+    "timeYear": 2193,
+    "dailyMinutesDown": {
+      "2020-12-04": 413,
+      "2020-12-03": 213,
+      "2020-11-29": 8
+    }
   }
 ]
