@@ -11,7 +11,7 @@ sites:
   - name: Click Media +
     url: https://api.myclickdealer.co.uk
   - name: Click Web (AWS - 13.248.163.118)
-    url: https://13.248.163.11
+    url: https://13.248.163.118
     headers:
       - "Host: www.hiltongarage.co.uk"
     __dangerous__insecure: true
