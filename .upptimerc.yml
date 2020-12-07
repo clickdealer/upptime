@@ -10,8 +10,21 @@ sites:
     url: https://example.click-engage.co.uk
   - name: Click Media +
     url: https://api.myclickdealer.co.uk
-  - name: Click Web
-    url: https://www.clickmotors.co.uk
+  - name: Click Web (AWS - 13.248.163.118)
+    url: https://13.248.163.11
+    headers:
+      - "Host: www.hiltongarage.co.uk"
+    __dangerous__insecure: true
+  - name: Click Web (AWS - 76.223.62.13)
+    url: https://76.223.62.13
+    headers:
+      - "Host: www.hiltongarage.co.uk"
+    __dangerous__insecure: true
+  - name: Click Web (UKFast - 185.166.128.248)
+    url: https://185.166.128.248
+    headers:
+      - "Host: www.hiltongarage.co.uk"
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
