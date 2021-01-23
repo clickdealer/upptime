@@ -20,11 +20,6 @@ sites:
     headers:
       - "Host: www.hiltongarage.co.uk"
     __dangerous__insecure: true
-  - name: Click Web (UKFast - 185.166.128.248)
-    url: https://185.166.128.248
-    headers:
-      - "Host: www.hiltongarage.co.uk"
-    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
