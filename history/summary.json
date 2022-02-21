@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
     "time": 951,
-    "timeDay": 1374,
-    "timeWeek": 1120,
-    "timeMonth": 935,
+    "timeDay": 1218,
+    "timeWeek": 1089,
+    "timeMonth": 946,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2021-08-25": 92,
@@ -22,8 +22,7 @@
       "2021-07-25": 1440,
       "2021-07-24": 440,
       "2021-05-02": 8,
-      "2021-02-22": 111,
-      "2021-02-21": 302
+      "2021-02-22": 111
     }
   },
   {
@@ -38,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 616,
-    "timeDay": 710,
-    "timeWeek": 581,
+    "timeDay": 530,
+    "timeWeek": 557,
     "timeMonth": 588,
-    "timeYear": 601,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2021-08-25": 92,
       "2021-08-12": 216,
@@ -49,8 +48,7 @@
       "2021-07-25": 1440,
       "2021-07-24": 440,
       "2021-02-26": 25,
-      "2021-02-22": 156,
-      "2021-02-21": 334
+      "2021-02-22": 156
     }
   },
   {
@@ -64,19 +62,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
-    "time": 593,
-    "timeDay": 642,
-    "timeWeek": 588,
-    "timeMonth": 536,
-    "timeYear": 541,
+    "time": 583,
+    "timeDay": 706,
+    "timeWeek": 581,
+    "timeMonth": 542,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2021-08-25": 92,
       "2021-08-12": 216,
       "2021-07-26": 912,
       "2021-07-25": 1440,
       "2021-07-24": 440,
-      "2021-02-22": 153,
-      "2021-02-21": 334
+      "2021-02-22": 153
     }
   },
   {
@@ -89,12 +86,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 808,
-    "timeDay": 983,
-    "timeWeek": 847,
-    "timeMonth": 786,
-    "timeYear": 671,
+    "timeDay": 910,
+    "timeWeek": 836,
+    "timeMonth": 785,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2021-08-25": 92,
       "2021-08-12": 259,
@@ -111,16 +108,16 @@
     "icon": "https://favicons.githubusercontent.com/76.223.62.13",
     "slug": "click-web-aws-76-223-62-13",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 762,
-    "timeDay": 986,
-    "timeWeek": 842,
+    "timeDay": 916,
+    "timeWeek": 831,
     "timeMonth": 782,
-    "timeYear": 664,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2021-08-25": 92,
       "2021-08-12": 259,
