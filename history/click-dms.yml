@@ -1,7 +1,7 @@
 url: https://myclickdealer.co.uk
-status: up
-code: 200
-responseTime: 1394
-lastUpdated: 2022-10-05T23:06:11.162Z
+status: down
+code: 502
+responseTime: 659
+lastUpdated: 2022-10-06T08:08:40.398Z
 startTime: Tue Nov 24 2020 19:56:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
