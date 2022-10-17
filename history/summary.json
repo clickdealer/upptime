@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/myclickdealer.co.uk.ico",
     "slug": "click-dms",
     "status": "up",
-    "uptime": "87.92%",
+    "uptime": "87.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.02%",
     "time": 1006,
-    "timeDay": 778,
-    "timeWeek": 979,
-    "timeMonth": 1018,
-    "timeYear": 1059,
+    "timeDay": 878,
+    "timeWeek": 902,
+    "timeMonth": 1007,
+    "timeYear": 1056,
     "dailyMinutesDown": {
       "2022-09-15": 1307,
       "2022-09-14": 1440,
@@ -112,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 571,
-    "timeDay": 462,
-    "timeWeek": 712,
-    "timeMonth": 596,
-    "timeYear": 576,
+    "timeDay": 495,
+    "timeWeek": 682,
+    "timeMonth": 589,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   },
   {
@@ -130,10 +130,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
-    "timeDay": 598,
-    "timeWeek": 624,
-    "timeMonth": 575,
-    "timeYear": 543,
+    "timeDay": 451,
+    "timeWeek": 590,
+    "timeMonth": 566,
+    "timeYear": 541,
     "dailyMinutesDown": {}
   },
   {
@@ -148,10 +148,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 755,
-    "timeDay": 666,
-    "timeWeek": 901,
-    "timeMonth": 955,
-    "timeYear": 886,
+    "timeDay": 658,
+    "timeWeek": 824,
+    "timeMonth": 937,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2022-10-05": 46
     }
@@ -167,11 +167,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 753,
-    "timeDay": 651,
-    "timeWeek": 893,
-    "timeMonth": 927,
-    "timeYear": 815,
+    "time": 754,
+    "timeDay": 658,
+    "timeWeek": 811,
+    "timeMonth": 908,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2022-10-05": 46
     }
