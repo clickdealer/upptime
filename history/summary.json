@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/myclickdealer.co.uk.ico",
     "slug": "click-dms",
     "status": "up",
-    "uptime": "90.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "90.49%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "78.01%",
     "time": 1015,
     "timeDay": 779,
@@ -16,6 +16,7 @@
     "timeMonth": 787,
     "timeYear": 996,
     "dailyMinutesDown": {
+      "2023-04-20": 3,
       "2023-02-08": 11,
       "2023-01-19": 7,
       "2022-10-26": 26,
@@ -110,16 +111,18 @@
     "slug": "click-engage",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 564,
     "timeDay": 503,
     "timeWeek": 464,
     "timeMonth": 447,
     "timeYear": 565,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-20": 3
+    }
   },
   {
     "name": "Click Media +",
@@ -128,8 +131,8 @@
     "slug": "click-media",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 566,
@@ -138,6 +141,7 @@
     "timeMonth": 435,
     "timeYear": 596,
     "dailyMinutesDown": {
+      "2023-04-20": 2,
       "2022-11-28": 7
     }
   },
