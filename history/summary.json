@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/myclickdealer.co.uk.ico",
     "slug": "click-dms",
     "status": "up",
-    "uptime": "90.82%",
+    "uptime": "90.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.38%",
-    "time": 1007,
-    "timeDay": 991,
-    "timeWeek": 867,
-    "timeMonth": 831,
-    "timeYear": 974,
+    "uptimeYear": "81.66%",
+    "time": 1006,
+    "timeDay": 607,
+    "timeWeek": 812,
+    "timeMonth": 816,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2023-04-20": 6,
       "2023-02-08": 11,
@@ -86,8 +86,7 @@
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
-      "2022-05-25": 1440,
-      "2022-05-24": 1440
+      "2022-05-25": 1440
     }
   },
   {
@@ -102,10 +101,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
-    "timeDay": 489,
-    "timeWeek": 466,
-    "timeMonth": 479,
-    "timeYear": 553,
+    "timeDay": 331,
+    "timeWeek": 426,
+    "timeMonth": 472,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2023-04-20": 6
     }
@@ -122,10 +121,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 563,
-    "timeDay": 472,
-    "timeWeek": 440,
-    "timeMonth": 465,
-    "timeYear": 579,
+    "timeDay": 403,
+    "timeWeek": 422,
+    "timeMonth": 461,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2023-04-20": 4,
       "2022-11-28": 7
@@ -143,10 +142,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 936,
-    "timeDay": 2149,
-    "timeWeek": 1080,
-    "timeMonth": 1018,
-    "timeYear": 971,
+    "timeDay": 651,
+    "timeWeek": 1004,
+    "timeMonth": 999,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2023-04-12": 8,
       "2023-04-10": 11,
@@ -168,10 +167,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 912,
-    "timeDay": 1221,
-    "timeWeek": 947,
-    "timeMonth": 954,
-    "timeYear": 980,
+    "timeDay": 691,
+    "timeWeek": 874,
+    "timeMonth": 936,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2023-03-22": 6,
       "2022-12-19": 11,
