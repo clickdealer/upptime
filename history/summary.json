@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/myclickdealer.co.uk.ico",
     "slug": "click-dms",
     "status": "up",
-    "uptime": "90.91%",
+    "uptime": "90.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.85%",
-    "time": 1007,
-    "timeDay": 1475,
-    "timeWeek": 947,
-    "timeMonth": 834,
-    "timeYear": 972,
+    "uptimeYear": "84.12%",
+    "time": 1006,
+    "timeDay": 859,
+    "timeWeek": 931,
+    "timeMonth": 844,
+    "timeYear": 971,
     "dailyMinutesDown": {
       "2023-04-20": 6,
       "2023-02-08": 11,
@@ -77,8 +77,7 @@
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
-      "2022-06-03": 1440,
-      "2022-06-02": 1440
+      "2022-06-03": 1440
     }
   },
   {
@@ -93,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 311,
-    "timeWeek": 442,
-    "timeMonth": 462,
-    "timeYear": 549,
+    "timeDay": 455,
+    "timeWeek": 439,
+    "timeMonth": 465,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2023-04-20": 6
     }
@@ -113,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 562,
-    "timeDay": 323,
-    "timeWeek": 471,
+    "timeDay": 434,
+    "timeWeek": 429,
     "timeMonth": 460,
     "timeYear": 575,
     "dailyMinutesDown": {
@@ -134,9 +133,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 939,
-    "timeDay": 698,
-    "timeWeek": 953,
-    "timeMonth": 969,
+    "timeDay": 909,
+    "timeWeek": 914,
+    "timeMonth": 976,
     "timeYear": 970,
     "dailyMinutesDown": {
       "2023-04-12": 8,
@@ -158,10 +157,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 916,
-    "timeDay": 672,
-    "timeWeek": 946,
-    "timeMonth": 910,
+    "time": 917,
+    "timeDay": 905,
+    "timeWeek": 894,
+    "timeMonth": 916,
     "timeYear": 979,
     "dailyMinutesDown": {
       "2023-03-22": 6,
